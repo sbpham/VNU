@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     A[TỔ CHỨC THỰC HIỆN] --> B(Thành lập tổ công tác)
     B --> C("Họp nhóm 'core' xác định phương pháp, tổ chức thực hiện xây dựng Chiến lược")
@@ -22,3 +23,4 @@ graph LR
     F --> N
     F --> O
     F --> P
+```
